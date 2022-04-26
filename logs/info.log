@@ -1,0 +1,4 @@
+2022/04/18-09:42:03	ERROR	ohedu/main.go:200	error when getting key of section "Citrix": key "OheduRedirectUri" not exists
+2022/04/18-09:43:13	ERROR	ohedu/main.go:200	error when getting key of section "Citrix": key "OheduRedirectUri" not exists
+2022/04/18-09:43:30	ERROR	ohedu/main.go:200	error when getting key of section "Citrix": key "OheduRedirectUri" not exists
+2022/04/18-09:44:21	ERROR	ohedu/main.go:200	error when getting key of section "Citrix": key "OheduRedirectUri" not exists
